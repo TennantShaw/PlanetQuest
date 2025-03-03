@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    // not familiar with what this line is for. Leaving it for now until I do research.
+    // TODO()
+    // println("Program arguments: ${args.joinToString()}")
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    narrate("This is a test of my narrate function. It should print this information to the console without modification.")
 }
